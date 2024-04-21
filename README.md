@@ -42,7 +42,7 @@ Ao final deve se exibir uma mensagem:
        <h3>SAIDA</h3>
        <img src="./img/resultado.png" alt="">
        <h3>Responsivo</h3>
-        <img src="./img/response.png" alt="">
+      <img src="./img/response.png" alt="">
      
 
 
