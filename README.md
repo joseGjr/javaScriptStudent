@@ -38,6 +38,14 @@ Ao final deve se exibir uma mensagem:
   guerreiro atacou usando espada.
 
 
-  Resultado Final>>>
+ <h2> Resultado Final </h2>
+  <br>
   <img src="./img/Sem título.png" alt="">
+  <h2>
+  Saida
+  </h2>
+   <img src="./img/resultado.png" alt="">
+   <h2>Responsive</h2>
+   <br>
+   <img src="./img/response.png" alt="">
   
