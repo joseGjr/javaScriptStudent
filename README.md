@@ -1,6 +1,8 @@
 Instruções para entrega
 # 3️⃣ Escrevendo as classes de um Jogo
 
+ <img src="./img/Sem título.png" alt="">
+
 **O Que deve ser utilizado**
 
 - Variáveis
@@ -38,7 +40,7 @@ Ao final deve se exibir uma mensagem:
   guerreiro atacou usando espada.
  
       <h3>RESULTADO</h3>
-       <img src="./img/Sem título.png" alt="">
+      
        <h3>SAIDA</h3>
        <img src="./img/resultado.png" alt="">
        <h3>Responsivo</h3>
