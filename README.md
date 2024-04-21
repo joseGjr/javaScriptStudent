@@ -1,7 +1,9 @@
 Instruções para entrega
 # 3️⃣ Escrevendo as classes de um Jogo
-
+<div>
  <img src="./img/Sem título.png" alt="">
+</div>
+ 
 
 **O Que deve ser utilizado**
 
@@ -38,13 +40,15 @@ Ao final deve se exibir uma mensagem:
 - "o {tipo} atacou usando {ataque}"
   ex: mago atacou usando magia
   guerreiro atacou usando espada.
- 
-      <h3>RESULTADO</h3>
-      
+<div>
+       <h3>RESULTADO</h3>   
        <h3>SAIDA</h3>
        <img src="./img/resultado.png" alt="">
        <h3>Responsivo</h3>
       <img src="./img/response.png" alt="">
+ 
+</div>
+    
      
 
 
