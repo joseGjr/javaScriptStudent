@@ -40,12 +40,12 @@ Ao final deve se exibir uma mensagem:
 
  <h2> Resultado Final </h2>
   <br>
-  <img src="./img/Sem título.png" alt="">
+  <img src="src./img/Sem título.png" alt="">
   <h2>
   Saida
   </h2>
-   <img src="./img/resultado.png" alt="">
+   <img src="src./img/resultado.png" alt="">
    <h2>Responsive</h2>
    <br>
-   <img src="./img/response.png" alt="">
+   <img src="src./img/response.png" alt="">
   
