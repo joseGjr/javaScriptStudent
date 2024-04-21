@@ -39,5 +39,5 @@ Ao final deve se exibir uma mensagem:
 
 
   Resultado Final>>>
-  <img src="./img/Sem título.png">
+  <img src="./img/Sem título.png" alt="">
   
