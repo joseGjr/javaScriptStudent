@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&family=Oswald:wght@200..700&display=swap');
+*{
+    box-sizing: 0;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+    background-image:url(./desafio-dio-atack-hero/img/backgroudZ.jpg) ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Oswald", sans-serif;
+}
+
+.container{
+    background-color: white;
+    margin: 10px 50px 50px 50px;
+    border: 2px solid;
+    margin: auto;
+    padding: 10px;
+    color: green;
+    
+}
+#resultado{
+    
+    background-color: blue;
+    color: white;
+}
+h1{
+    
+    text-align: center;
+    color:white;
+    border: 1px solid white;
+    justify-self:center;
+    align-items: center;
+    background-color:  rgb(16, 73, 16);
+}
+
+button{
+    background-color: rgb(16, 73, 16);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    margin-top: 10px;
+    width: 100%;
+    
+}
+button:hover{
+    color:rgb(240, 242, 245);
+    background-color:rgb(44, 44, 233);
+    transition: 0.5s;
+}
+input{
+    border: solid 1px;
+    border-radius: 0px 0px 10px 0px;
+    border-color: rgb(16, 73, 16);   
+    width: 100%;
+    
+    
+
+}
+
+form{
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0;
+    
+}
+#tipo{
+    border: solid 1px;
+    border-radius: 15px;
+    border-color: rgb(16, 73, 16);
+    width: 100%;
+}
+#resultado{
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+    background-color:rgb(44, 44, 233);
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+@media screen and (max-width:600px) {
+    body img{
+        width: 300px;
+
+    }
+    body{
+        width: 100%;
+        height: 100%;
+    }
+    
+}
+
