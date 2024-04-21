@@ -1,7 +1,9 @@
 Instruções para entrega
 # 3️⃣ Escrevendo as classes de um Jogo
-
+<div>
  <img src="./img/Sem título.png" alt="">
+</div>
+ 
 
 **O Que deve ser utilizado**
 
