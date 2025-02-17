@@ -1,56 +1,46 @@
-Instruções para entrega
-# 3️⃣ Escrevendo as classes de um Jogo
-<div>
- <img src="./img/Sem título.png" alt="">
-</div>
- 
+# Heróis - Simulador de Ataque 🦸‍♂️
 
-**O Que deve ser utilizado**
+![Logo do Herói](./img/logo%20do%20heroi.png)
 
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
-- Classes e Objetos
+## Sobre o Projeto 📝
+Este é um projeto interativo que simula ataques de diferentes tipos de heróis. O usuário pode inserir o nome, idade e escolher um tipo de herói para realizar um ataque específico. O objetivo é demonstrar o uso de formulários HTML, manipulação do DOM com JavaScript e estilização com CSS.
 
-## Objetivo:
+## Tecnologias Utilizadas 🚀
+- **HTML5**: Estruturação da página
+- **CSS3**: Estilização e responsividade
+- **JavaScript**: Manipulação do DOM e interatividade
 
-Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:
+## Funcionalidades 📌
+✔️ Escolha de diferentes tipos de heróis  
+✔️ Simulação de ataques com base no tipo do herói  
+✔️ Interface intuitiva e interativa  
+✔️ Exibição dinâmica da ação do herói 
 
-- nome
-- idade
-- tipo (ex: guerreiro, mago, monge, ninja )
+## Estrutura do Projeto 📂
+```
+📁 desafio-dio-atack-hero
+│── 📁 img (Imagens do projeto)
+│── 📄 index.html (Estrutura principal)
+│── 📄 style.css (Estilos da aplicação)
+│── 📄 assets.js (Lógica do ataque do herói)
+```
 
-além disso, deve ter um método chamado atacar que deve atender os seguientes requisitos:
+## Demonstração 🖥️
+![Demonstração do Projeto](./img/demo.png)
 
-- exibir a mensagem: "o {tipo} atacou usando {ataque}")
-- aonde o {tipo} deve ser concatenando o tipo que está na propriedade da classe
-- e no {ataque} deve seguir uma descrição diferente conforme o tipo, seguindo a tabela abaixo:
+## Como Executar 💻
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   ```
+2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
 
-se mago -> no ataque exibir (usou magia)
-se guerreiro -> no ataque exibir (usou espada)
-se monge -> no ataque exibir (usou artes marciais)
-se ninja -> no ataque exibir (usou shuriken)
+## Contato 📩
+Caso tenha sugestões ou queira contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Saída
+🔗 **[Portfólio](https://seu-portfolio.com)**  
+📧 **Email:** seuemail@email.com
 
-Ao final deve se exibir uma mensagem:
-
-- "o {tipo} atacou usando {ataque}"
-  ex: mago atacou usando magia
-  guerreiro atacou usando espada.
-<div>
-       <h3>RESULTADO</h3>   
-       <h3>SAIDA</h3>
-       <img src="./img/resultado.png" alt="">
-       <h3>Responsivo</h3>
-      <img src="./img/response.png" alt="">
- 
-</div>
-    
-     
-
-
-
+---
+📝 Projeto criado para fins educacionais e demonstração de habilidades em desenvolvimento web.
 
