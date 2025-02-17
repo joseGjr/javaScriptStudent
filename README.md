@@ -26,7 +26,7 @@ Este é um projeto interativo que simula ataques de diferentes tipos de heróis.
 ```
 
 ## Demonstração 🖥️
-![Demonstração do Projeto](./img/demo.png)
+
 
 ## Como Executar 💻
 1. Clone o repositório:
@@ -35,11 +35,6 @@ Este é um projeto interativo que simula ataques de diferentes tipos de heróis.
    ```
 2. Acesse a pasta do projeto e abra o arquivo `index.html` no navegador.
 
-## Contato 📩
-Caso tenha sugestões ou queira contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-🔗 **[Portfólio](https://seu-portfolio.com)**  
-📧 **Email:** seuemail@email.com
 
 ---
 📝 Projeto criado para fins educacionais e demonstração de habilidades em desenvolvimento web.
